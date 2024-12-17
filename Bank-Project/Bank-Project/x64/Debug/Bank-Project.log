@@ -1,0 +1,6 @@
+﻿  Bank-Project.cpp
+C:\Users\aalku\Desktop\Courses\Course-7\Bank-Project\Bank-Project\Bank-Project.cpp(35,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aalku\Desktop\Courses\Course-7\Bank-Project\Bank-Project\Bank-Project.cpp(524,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\aalku\Desktop\Courses\Course-7\Bank-Project\Bank-Project\Bank-Project.cpp(493,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+C:\Users\aalku\Desktop\Courses\Course-7\Bank-Project\Bank-Project\Bank-Project.cpp(453,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+  Bank-Project.vcxproj -> C:\Users\aalku\Desktop\Courses\Course-7\Bank-Project\x64\Debug\Bank-Project.exe
